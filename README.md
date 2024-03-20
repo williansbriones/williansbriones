@@ -7,7 +7,7 @@
 - 🔭 Actualmente me encuentro buscando trabajo como __desarrollador__.
 - 🌱 Todos los días estoy __estudiando__ para ser un mejor desarrollador.
 - 💬 Puede preguntarme sobre mi carrera, conceptos de informática o de Java.
-- 📫 Me puedes contactarme a través de Gmail wi.briones@duocuc.cl o mediante mi perfil de [LinkedIn](https://www.linkedin.com/in/willians-felipe-briones-munoz-2a3292252/).
+- 📫 Puede contactar conmigo a través de Gmail wi.briones@duocuc.cl o mediante mi perfil de [LinkedIn](https://www.linkedin.com/in/willians-felipe-briones-munoz-2a3292252/).
 - ⚡ Fun fact Mi nombre no es __*Williams*__ es __*Willians*__.
 - :rage1: Todos mis repositorios utilizados para mi enseñanza académica están en [¡AQUI!](https://github.com/williansbriones?tab=repositories).
 
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/willians-felipe-briones-munoz-2a3292252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebasti%c3%a1n-contreras-bravo-a07a3847" height="30" width="40" /></a>
 </p>
 
-### Lenguajes y herramientas que he utilizado en repositorios:
+### Lenguajes y herramientas utilizadas en mis repositorios:
 <p aling="left" >
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"   height="40"/> </a>
